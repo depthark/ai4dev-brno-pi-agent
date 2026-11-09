@@ -10,6 +10,7 @@ agent-browser, agent-desktop).
 | `pptx-to-keynote.applescript` | turns the pptx into a native Keynote deck with Magic Move and looping movies |
 | `Pi-agent-Keynote-zaloha.pdf` | PDF backup |
 | `Pi-agent-osnova.md` | talk outline and script (Slovak) |
+| `Pi-agent-poznamky.md` | speaker notes for every slide (Slovak), extracted from the pptx |
 | `zdroj/` | sources: `build.js` (pptxgenjs), animations in `anim/`, images |
 
 ## Keynote on a Mac
