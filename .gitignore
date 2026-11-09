@@ -1,0 +1,5 @@
+node_modules/
+# build.js writes these and copies them to the root
+zdroj/Pi-agent-Keynote.pptx
+zdroj/pptx-to-keynote.applescript
+.DS_Store
